@@ -91,7 +91,6 @@ const DestinationSearch = (props) => {
       }}
       fetchDetails
       query={{
-        key: 'AIzaSyDgGO7c-Vz8seXh4_h2Oid5Y-fJD31EDYE',
         language: 'en',
       }}
       renderRow={(data)=> <PlaceRow data={data}/>}
