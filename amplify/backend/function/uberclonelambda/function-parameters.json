@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "auth": {
+      "uberclone26765fbe": [
+        "create"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

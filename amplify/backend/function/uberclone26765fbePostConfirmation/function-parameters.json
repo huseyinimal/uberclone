@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "uberclone26765fbe",
+  "functionName": "uberclone26765fbePostConfirmation",
+  "resourceName": "uberclone26765fbePostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "C:\\Users\\seyin\\AppData\\Roaming\\npm\\node_modules\\@aws-amplify\\cli\\node_modules\\amplify-category-auth\\provider-utils\\awscloudformation\\triggers\\PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "uberclone26765fbePostConfirmation",
+  "skipEdit": true,
+  "triggerEventPath": "PostConfirmation.event.json",
+  "enableCors": false
+}
